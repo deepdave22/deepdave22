@@ -108,38 +108,6 @@ class DeepDave:
   </tr>
 </table>
 
-## 💼 Experience
-
-| When | Role | What I did |
-|---|---|---|
-| Dec 2025 - Present | **Junior AI/ML Engineer Trainee**, Evonence (Pune) | Engineered Gemini prompts for an internal AI Diagram Generator, improving accuracy and cutting generation time. R&D on **Elis.ai**, an agent-based chatbot: evaluated LLM responses to lift answer quality and consistency. Provisioned GCP infrastructure with **Terraform**. |
-| Apr - Sep 2025 | **Data Analyst Intern**, AArete (Remote) | Analysed 1,000+ US healthcare claims a month under **HIPAA**. Built Power BI dashboards on MS SQL Server (approval rates, rejection reasons, processing times) using Power Query, SQL and DAX. |
-| Jan - Feb 2024 | **Data Analyst Intern**, NoQ's Digital (Pune) | Built a Power BI HR analytics dashboard (attrition, tenure, training effectiveness) with Row-Level Security and Incremental Refresh. |
-
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🛩️ [Aerospace Hybrid RAG](https://github.com/deepdave22/aerospace-rag) | Production-oriented RAG chatbot over aviation manuals. Semantic and BM25 search fused with Reciprocal Rank Fusion, then reranked, so answers stay grounded and cite their source page. | Python, BM25, Vector DB, LLMs, Docker |
-| 🤖 AI SQL Analyst *(in progress)* | Natural-language-to-SQL agent on Google ADK: inspects the schema, writes and runs the query, explains the result. | Google ADK, Gemini, Python, SQL |
-| 📈 Stock Market Analysis | Price forecasting comparing Linear Regression with an LSTM on live API data. The sequence model lifted accuracy by **20%**. | Python, LSTM, pandas |
-| 🏠 [Bangalore House Price Prediction](https://github.com/deepdave22/bangalore_house_price_predictor) | Regression model reaching **87%** accuracy, wrapped in a Flask app. | Python, scikit-learn, Flask |
-| 📉 [Customer Churn Analysis](https://github.com/deepdave22/Churn-Analysis) | End-to-end churn pipeline: SQL Server ETL into Power BI, then a Random Forest to rank which customers to call first. | SQL Server, Power BI, Random Forest |
-
-More on the [portfolio](https://portfolio-deep-9e07.vercel.app).
-
-## 🔄 Recently active (updates itself)
-
-<!-- RECENT:START -->
-| Repo | Language | Last push |
-|---|---|---|
-| [portfolio](https://github.com/deepdave22/portfolio) | TypeScript | 2026-10-02 |
-| [aerospace-rag](https://github.com/deepdave22/aerospace-rag) - Production-oriented Hybrid RAG system for aviation knowledge retrieval | Jupyter Notebook | 2026-09-14 |
-| [bangalore_house_price_predictor](https://github.com/deepdave22/bangalore_house_price_predictor) | Jupyter Notebook | 2025-11-16 |
-| [sql_practice](https://github.com/deepdave22/sql_practice) | Roff | 2025-10-03 |
-| [SQL-query-solving](https://github.com/deepdave22/SQL-query-solving) | - | 2025-10-03 |
-<!-- RECENT:END -->
-
 ## 📊 GitHub stats
 
 <div align="center">
