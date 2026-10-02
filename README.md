@@ -116,10 +116,6 @@ class DeepDave:
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdave22&langs_count=6&layout=compact&theme=react&border_radius=10&exclude_repo=deepdave22" alt="top languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepdave22&theme=onedark&no-frame=true&row=1&margin-w=10" alt="trophies" />
-</p>
-
 ## 🧩 LeetCode
 
 <p align="center">
