@@ -41,6 +41,16 @@ class DeepDave:
 - 💬 Ask me about **agents, RAG, LLM evaluation, prompt engineering, Gemini, GCP**
 - 🎓 **Google Cloud Digital Leader** and **Data Engineering on Google Cloud** certified
 
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake.svg" />
+  </picture>
+</div>
+
 ## 🛠️ Tech stack
 
 <table align="center">
@@ -147,16 +157,6 @@ More on the [portfolio](https://portfolio-deep-9e07.vercel.app).
 <p align="center">
   <a href="https://leetcode.com/u/deepdave22/"><img src="https://leetcard.jacoblin.cool/deepdave22?theme=dark&font=Fira%20Code&ext=heatmap" alt="leetcode stats" /></a>
 </p>
-
-## 🐍 Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deepdave22/deepdave22/output/github-snake.svg" />
-  </picture>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a5acd,100:1b1f23&height=100&section=footer" alt="footer" />
